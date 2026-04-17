@@ -15,12 +15,12 @@ La plataforma permite a los usuarios:
 **Objetivo principal**: Ofrecer una herramienta completa, moderna y fácil de usar para seguir el mercado cambiario argentino y mundial.
 
 ## Tecnologías / Lenguajes a utilizar
-<!-- COMPLETAR con lo que vayan a usar en el proyecto -->
+
 - **Frontend**: HTML, CSS, JavaScript (o React)
 - **Backend**: Node.js 
-- **Base de datos**: 
-- **Gráficos**: 
-- **APIs externas**: (ej: exchangerate-api, crypto APIs, APIs locales de dólar blue)
+- **Base de datos**: postgreSQL
+- **Gráficos**: chart.js
+- **APIs externas**:  (crypto APIs, APIs locales de dólar blue)
 
 
 ## Integrantes y Roles
