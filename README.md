@@ -36,7 +36,7 @@ La plataforma permite a los usuarios:
 
 
 ## Color del grupo
-- **Color principal**: #1A2A44 
+- **Color principal**: `#1A2A44`
  
 
 ## Estructura del repositorio
