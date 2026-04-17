@@ -42,7 +42,7 @@ La plataforma permite a los usuarios:
 ## Estructura del repositorio
 
 - `/código` → Todo el código fuente del proyecto (frontend, backend, etc.)
-- `/documentación` → Documentos del proyecto (este PDF, diagramas, manuales, etc.)
+- `/documentación` → Documentos del proyecto (este PDF, diagramas, etc.)
 
 ---
 
