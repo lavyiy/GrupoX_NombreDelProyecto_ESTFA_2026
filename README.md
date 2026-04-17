@@ -31,13 +31,13 @@ La plataforma permite a los usuarios:
 | Santino Tacconi  | Devopler             |
 | Lorenzo Sanchez  | Base de datos                      |
 | Bruno cabrera 4)  | Diseño UX
-                   |
+| Santiago Centurion | Devloper                   |
 
-*(Reemplaza con los nombres reales y ajusta los roles según corresponda)*
+
 
 ## Color del grupo
-- **Color principal**: `#XXXXXX` (ejemplo: `#00BFFF` - Azul Dolarito)  
-  *(Completar cuando lo definan)*
+- **Color principal**: #1A2A44 
+ 
 
 ## Estructura del repositorio
 
