@@ -40,4 +40,4 @@ La plataforma permite a los usuarios:
  
 
 ---
-**Proyecto desarrollado para la cátedra de Programación / Laboratorio de Software (FAM - Fameghino)**
+**Proyecto desarrollado (FAM - Fameghino)**
