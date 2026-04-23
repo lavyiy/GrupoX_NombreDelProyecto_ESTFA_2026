@@ -1,4 +1,3 @@
-El nombre del repositorio tenian que completarlo... no dejarlo como esta, GrupoX no existe... tienen que tener un numero. Y si van a hacer la descripcion con IA al menos lean lo que ponen que antes decia que era para una catedra... no estamos en facultad. MT
 
 
 # Dolarito - Plataforma de Consulta de Cotizaciones Multidivisa
